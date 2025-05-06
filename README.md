@@ -1,3 +1,7 @@
+# 📅 Calendário Menstrual Personalizado
+
+Este é um aplicativo pessoal desenvolvido em **React Native com Expo**, com foco exclusivo na plataforma **Android**, para registrar e acompanhar o ciclo menstrual. A proposta é uma ferramenta **intuitiva, funcional e completamente offline-first**, com uso de banco de dados **NoSQL** para armazenamento local e sincronização opcional futura.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -9,7 +13,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npm install
    ```
-
 2. Start the app
 
    ```bash
@@ -35,16 +38,29 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+## 🚀 Funcionalidades
 
-To learn more about developing your project with Expo, look at the following resources:
+- ✅ Registro de início e fim do ciclo menstrual
+- ✅ Visualização mensal do calendário com marcações dos períodos
+- ✅ Previsão de próximos ciclos com base em dados anteriores
+- ✅ Marcação de sintomas (cólicas, alterações de humor, acne, etc.)
+- ✅ Anotações diárias (humor, fluxo, observações pessoais)
+- ✅ Notificações personalizadas (opcional)
+- ✅ Banco de dados local com persistência de dados
+- ✅ Layout limpo e responsivo
+- ✅ Foco em uso **pessoal** e **offline**
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🛠️ Tecnologias Utilizadas
 
-## Join the community
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [React Navigation](https://reactnavigation.org/)
+- [Day.js](https://day.js.org/) — manipulação de datas
+- [Firebase](https://firebase.google.com) — banco de dados NoSQL local
+- [Styled Components](https://styled-components.com/) — estilização
 
-Join our community of developers creating universal apps.
+##
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<div style="text-align: center;">
+<img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%9C%20by%20Baakovi-CBC3E3?style=for-the-badge&labelColor=8e44ad&color=CBC3E3">
+</div>
